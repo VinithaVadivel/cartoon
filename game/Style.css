@@ -1,0 +1,58 @@
+body{
+    background: url(https://static.wikia.nocookie.net/disneyau/images/9/9a/Jackie-chan-adventures-5561896c052e5.png/revision/latest?cb=20170810132235);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Oswald', sans-serif;
+}           
+.heading{
+    width: 1300px;
+    height: 80px;
+    margin-left: 380px;
+    margin-top: 175px;
+    background:saddlebrown;
+}
+.anime{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-display:inherit;
+}
+.heading h1{
+    position: absolute;
+    margin-left: 430px;
+    color: white;
+    margin-top: 15px;
+}
+.main{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 1300px;
+    height: 800px;
+    background: rgba(0, 0, 0, 0.66);
+    margin-left: 380px;
+}
+h2{
+    margin-left: 120px;
+    margin-top: 50px;
+    color: white;
+}
+.first{
+    margin-left: 60px;
+}
+.firstimage{
+   margin-left: 0px;
+   margin-top: 40px;
+}
+.second{
+    margin-left: 50px;
+}
+.secondimage{
+    margin-top: 40px;
+}
+.image{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px 5px 0px 0px;
+    margin-left: 20px;
+    margin-top: 25px;
+}
